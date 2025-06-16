@@ -1,8 +1,8 @@
-# Remote Work Chat
+# Remote Work
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Remote Work Chat is a lightweight Slack-style collaboration tool built with Next.js and Convex. It helps distributed teams stay connected through realtime channels, direct messages, and emoji reactions. The project showcases how to combine a modern React stack with the Convex backend to create a fast and extensible SaaS foundation.
+Remote Work is a lightweight collaboration tool built with Next.js and Convex. It helps distributed teams stay connected through realtime channels, direct messages, and emoji reactions. The project showcases how to combine a modern React stack with the Convex backend to create a fast and extensible SaaS foundation.
 
 ## Table of Contents
 
