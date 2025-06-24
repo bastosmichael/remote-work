@@ -24,7 +24,7 @@
     "clsx": "^2.1.1",
     "cmdk": "1.0.0",
     "convex": "^1.14.1",
-    "date-fns": "^3.6.0",
+    "date-fns": "^4.1.0",
     "emoji-picker-react": "^4.11.1",
     "jotai": "^2.9.3",
     "lucide-react": "^0.522.0",
